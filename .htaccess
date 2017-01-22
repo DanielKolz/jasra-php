@@ -1,0 +1,5 @@
+#Enable mod_rewrite
+RewriteEngine On
+
+#Redirect all traffic to index.php in root folder
+RewriteRule . index.php
