@@ -1,6 +1,6 @@
 <?php 
 
-require("jasra.php");
+require("Jasra.php");
 
 $api = new Jasra();
 
